@@ -2,11 +2,13 @@ h1 {
   background-color: pink;
 }
 h3 {
-  background-color: yellowgreen;
+  background-color: rgb(247, 243, 5);
   padding: 30px;
   text-align: center;
 }
 p {
+  padding: 50px;
+  margin: 50px;
   background-color: black;
   color: antiquewhite;
 }
